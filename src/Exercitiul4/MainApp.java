@@ -14,7 +14,7 @@ public class MainApp {
 
         int cmmdc = calculeazaCmmdc(a, b);
 
-        System.out.println("CMMDC al numerelor " + a + " și " + b + " este: " + cmmdc);
+        System.out.println("CMMDC al numerelor " + a + " si " + b + " este: " + cmmdc);
     }
 
     public static int calculeazaCmmdc(int a, int b) {
